@@ -20,6 +20,6 @@ function deepestChild() {
         node = node.children[0]
     } else {
       return node
-    }    
+    }
   }
 }
